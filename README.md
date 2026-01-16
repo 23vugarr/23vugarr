@@ -10,14 +10,14 @@ I'm a **Software & Data Engineer** with a strong interest in **big data systems*
 
 ### 🧪 Selected Work
 - **Spark-Flow** — dbt-inspired framework built on Spark  
-- **kvaldb (AdCodeLabs)** — distributed key-value database  
-- **penester** — experimental security tooling  
+- **kvaldb (AdCodeLabs)** — distributed key-value database
+- **penester** — configuration based experimental security tooling
 
 ### 🏢 AdCodeLabs
 I maintain **[AdCodeLabs](https://github.com/adcodelabs)** — a GitHub organization where I explore ideas around big data and distributed systems, with the long-term goal of growing it into a collaborative learning space.
 
 ### 🛠 Tech
-Python • Go • C# • JavaScript  
+Python • Go • Rust • C++  
 Apache Spark • Distributed systems • Backend tooling
 
 🔗 https://github.com/23vugarr
