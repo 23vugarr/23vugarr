@@ -1,36 +1,23 @@
-## 👋 Hi, I'm Vugar Abdulali
+## 👋 Hi, I'm Vugar
 
-I'm a **Software & Data Engineer** interested in **big data systems, distributed computing, and backend infrastructure**. I enjoy building systems from the ground up and learning how data platforms work at scale.
+I'm a **Software & Data Engineer** with a strong interest in **big data systems**, **distributed computing**, and **backend infrastructure**. I like working close to the system level and understanding how things behave at scale.
 
-### 🚀 What I Work On
-I explore data processing, system design, and developer tooling through hands-on projects.
+### 🔍 What I Focus On
+- Building **data processing tools** on top of **Apache Spark**
+- Exploring **distributed databases** and system internals
+- Designing **backend and infrastructure-focused** projects
+- Experimenting with **AI / model fine-tuning**
 
-#### 💻 Personal Projects
-- 🧩 **Spark-Flow** — a Spark-based framework inspired by dbt  
-- 🔐 **penester** — experimental security / penetration testing concepts  
-- ⚙️ **basic-loadbalancer** — simple load balancing implementation  
-- 🤖 **pullow** — C# project exploring agent-based patterns  
-- 🧪 **fineTuningProject** — experiments with AI model fine-tuning  
-- 💡 **ufaz-hackathon** — hackathon prototype project
+### 🧪 Selected Work
+- **Spark-Flow** — dbt-inspired framework built on Spark  
+- **kvaldb (AdCodeLabs)** — distributed key-value database  
+- **penester** — experimental security tooling  
 
-#### 🏢 AdCodeLabs
-I also maintain **[AdCodeLabs](https://github.com/adcodelabs)** — a GitHub organization where I experiment with ideas around **big data, distributed systems, and backend tooling**.  
-Over time, I’d like it to grow into a **small community** where people can learn, collaborate, and build system-level projects together.
+### 🏢 AdCodeLabs
+I maintain **[AdCodeLabs](https://github.com/adcodelabs)** — a GitHub organization where I explore ideas around big data and distributed systems, with the long-term goal of growing it into a collaborative learning space.
 
-Some projects there:
-- **kvaldb** — a distributed key-value database  
-- **cns** — a CLI NameSpace tool
+### 🛠 Tech
+Python • Go • C# • JavaScript  
+Apache Spark • Distributed systems • Backend tooling
 
-### 🛠 Tech & Focus Areas
-- **Big Data:** Apache Spark, data processing & ETL  
-- **Distributed Systems:** scalability, reliability, system internals  
-- **Languages:** Python, Go, JavaScript, C#  
-- **AI/ML:** experimentation & model fine-tuning
-
-### 📚 Currently Focusing On
-- Internals of big data platforms  
-- Designing reliable data pipelines  
-- Building open, collaborative engineering projects  
-
-📫 **GitHub:** https://github.com/23vugarr  
-🏢 **AdCodeLabs:** https://github.com/adcodelabs  
+🔗 https://github.com/23vugarr
